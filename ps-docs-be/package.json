@@ -1,0 +1,17 @@
+{
+  "name": "ps-docs-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sneh Paghdal",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3",
+    "socket.io": "^4.7.4"
+  }
+}
